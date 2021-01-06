@@ -74,6 +74,7 @@ ul li:hover a {
 /* Hero Section */
 .hero {
 	background-color: #B3B3B3;
+	background-image: url("../images/berkeleymarina.jpg");
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
@@ -148,7 +149,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #3257E5;
-	background-image: url(../images/parallax.png);
+	background-image: url("../images/kyotoshopping.jpg");
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
